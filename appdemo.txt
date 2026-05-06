@@ -4,3 +4,4 @@ this is my new file
 
 newversion
 feature
+new changes
